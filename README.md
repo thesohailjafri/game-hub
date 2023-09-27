@@ -28,6 +28,10 @@ To get started with GameHub, follow these steps:
 5. Run `npm run dev` to start the web server.
 6. Open http://localhost:3000 in your browser. Walla! You're ready to start using GameHub.
 
+### Video Demo
+
+[![Watch Demo](https://i.imgur.com/FEFhQtj.png)](https://clipchamp.com/watch/Ev4yYs2Zq7c 'Watch Demo')
+
 ### Screenshots
 
 <table border="0">
