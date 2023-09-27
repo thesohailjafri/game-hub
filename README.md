@@ -3,6 +3,7 @@
 - [Overview](#overview)
   - [GameHub](#gamehub)
   - [Getting Started](#getting-started)
+  - [Video Demo](#video-demo)
   - [Screenshots](#screenshots)
   - [Links](#links)
 - [Process](#process)
