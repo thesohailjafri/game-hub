@@ -32,25 +32,25 @@ To get started with GameHub, follow these steps:
 
 <table border="0">
   <tr>
-    <td><b style="font-size:20px">Mobile</b></td>
-    <td><b style="font-size:20px">Desktop</b></td>
+    <th><b style="font-size:20px">Mobile</b></th>
+    <th><b style="font-size:20px">Desktop</b></th>
  	</tr>
  	<tr>
     <td>
-			<img src="https://i.imgur.com/GUObIBW.png" alt="Mobile-Home" width="50%" >
-			<img src="https://i.imgur.com/36X8oiU.png" alt="Mobile-Search" width="50%" >
-			<img src="https://i.imgur.com/S9pdoax.png" alt="Mobile-Game" width="50%" >
-			<img src="https://i.imgur.com/7r0AeVn.png" alt="Mobile-Search-Light" width="50%" >
-			<img src="https://i.imgur.com/5C0TpeI.png" alt="Mobile-Genre-Light" width="50%" >
-			<img src="https://i.imgur.com/OmplMlE.png" alt="Mobile-Genre-Platform-Light" width="50%" >
+			<img src="https://i.imgur.com/GUObIBW.png" alt="Mobile-Home" width="40%" >
+			<img src="https://i.imgur.com/36X8oiU.png" alt="Mobile-Search" width="40%" >
+			<img src="https://i.imgur.com/S9pdoax.png" alt="Mobile-Game" width="40%" >
+			<img src="https://i.imgur.com/7r0AeVn.png" alt="Mobile-Search-Light" width="40%" >
+			<img src="https://i.imgur.com/5C0TpeI.png" alt="Mobile-Genre-Light" width="40%" >
+			<img src="https://i.imgur.com/OmplMlE.png" alt="Mobile-Genre-Platform-Light" width="40%" >
 		</td>
 		<td>
-			<img src="https://i.imgur.com/Yctj1rY.png" alt="Desktop-Home" width="50%" >
-			<img src="https://i.imgur.com/kD6YAAv.png" alt="Desktop-Search" width="50%" >
-			<img src="https://i.imgur.com/FzFkZbS.png" alt="Desktop-Game" width="50%" >
-			<img src="https://i.imgur.com/xhBdGEg.png" alt="Desktop-Search-Light" width="50%" >
-			<img src="https://i.imgur.com/pvJnO0p.png" alt="Desktop-Genre-Light" width="50%" >
-			<img src="https://i.imgur.com/UlEGkUD.png" alt="Desktop-Genre-Platform-Light" width="50%" >
+			<img src="https://i.imgur.com/Yctj1rY.png" alt="Desktop-Home" width="100%" >
+			<img src="https://i.imgur.com/kD6YAAv.png" alt="Desktop-Search" width="100%" >
+			<img src="https://i.imgur.com/FzFkZbS.png" alt="Desktop-Game" width="100%" >
+			<img src="https://i.imgur.com/xhBdGEg.png" alt="Desktop-Search-Light" width="100%" >
+			<img src="https://i.imgur.com/pvJnO0p.png" alt="Desktop-Genre-Light" width="100%" >
+			<img src="https://i.imgur.com/UlEGkUD.png" alt="Desktop-Genre-Platform-Light" width="100%" >
 		</td>
 	</tr>
 </table>
