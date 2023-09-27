@@ -3,6 +3,7 @@
 - [Overview](#overview)
   - [GameHub](#gamehub)
   - [Getting Started](#getting-started)
+  - [Video Demo](#video-demo)
   - [Screenshots](#screenshots)
   - [Links](#links)
 - [Process](#process)
@@ -24,7 +25,7 @@ To get started with GameHub, follow these steps:
 1. Clone this repository to your local machine.
 2. Run `npm install` to install the required dependencies.
 3. Get a RAWG API key at https://rawg.io/apidocs. You'll have to create an account first.
-4. Paste the API key in **.env.development**. If you don't have this file, create one. for production, paste the API key in **.env.production**.
+4. Paste the API key in **.env.development**. If you don't have this file, create one. For production, paste the API key in **.env.production**.
 5. Run `npm run dev` to start the web server.
 6. Open http://localhost:3000 in your browser. Walla! You're ready to start using GameHub.
 
@@ -80,7 +81,7 @@ To get started with GameHub, follow these steps:
 
 ### What I learned
 
-During this project i learned how to use Chakra-Ui and how to use rawg-io api. I also learned how to use React Query for client side caching, Zustand for state-managemtn and Vite for packager bundler. Also strentghen my knowledge of React Router v6 Custom Hooks and Typescript.
+During this project, i learned how to use Chakra-Ui and how to use rawg-io api. I also learned how to use React Query for client-side caching, Zustand for state-management and Vite for packager bundler. Also strengthens my knowledge of React Router v6 Custom Hooks and Typescript.
 
 Zustand | store.ts
 
@@ -88,8 +89,8 @@ Zustand | store.ts
 import { create } from 'zustand'
 
 interface GameQuery {
-  genreId?: number;
-  platformId?: number;
+  genre?: number;
+  platform?: number;
   sortOrder?: string;
   searchText?: string;
 }
@@ -166,7 +167,7 @@ import { useInfiniteQuery } from '@tanstack/react-query';
 import ms from 'ms';
 import APIClient, {
   FetchResponse,
-} from '../services/api-client';
+} from '../services/API-client';
 import useGameQueryStore from '../store';
 import Game from '../types/Game';
 
