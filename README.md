@@ -41,12 +41,9 @@ To get started with GameHub, follow these steps:
  	</tr>
  	<tr>
     <td>
-			<img src="https://i.imgur.com/GUObIBW.png" alt="Mobile-Home" width="40%" >
-			<img src="https://i.imgur.com/36X8oiU.png" alt="Mobile-Search" width="40%" >
-			<img src="https://i.imgur.com/S9pdoax.png" alt="Mobile-Game" width="40%" >
-			<img src="https://i.imgur.com/7r0AeVn.png" alt="Mobile-Search-Light" width="40%" >
-			<img src="https://i.imgur.com/5C0TpeI.png" alt="Mobile-Genre-Light" width="40%" >
-			<img src="https://i.imgur.com/OmplMlE.png" alt="Mobile-Genre-Platform-Light" width="40%" >
+			<img src="https://i.imgur.com/GUObIBW.png" alt="Mobile-Home" width="100%" >
+			<img src="https://i.imgur.com/36X8oiU.png" alt="Mobile-Search" width="100%" >
+			<img src="https://i.imgur.com/S9pdoax.png" alt="Mobile-Game" width="100%" >
 		</td>
 		<td>
 			<img src="https://i.imgur.com/Yctj1rY.png" alt="Desktop-Home" width="100%" >
