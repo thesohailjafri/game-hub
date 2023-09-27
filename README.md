@@ -45,12 +45,12 @@ To get started with GameHub, follow these steps:
 			<img src="https://i.imgur.com/OmplMlE.png" alt="Mobile-Genre-Platform-Light" width="40%" >
 		</td>
 		<td>
-			<img src="https://i.imgur.com/Yctj1rY.png" alt="Desktop-Home" width="100%" >
-			<img src="https://i.imgur.com/kD6YAAv.png" alt="Desktop-Search" width="100%" >
-			<img src="https://i.imgur.com/FzFkZbS.png" alt="Desktop-Game" width="100%" >
-			<img src="https://i.imgur.com/xhBdGEg.png" alt="Desktop-Search-Light" width="100%" >
-			<img src="https://i.imgur.com/pvJnO0p.png" alt="Desktop-Genre-Light" width="100%" >
-			<img src="https://i.imgur.com/UlEGkUD.png" alt="Desktop-Genre-Platform-Light" width="100%" >
+			<img src="https://i.imgur.com/Yctj1rY.png" alt="Desktop-Home" width="60%" >
+			<img src="https://i.imgur.com/kD6YAAv.png" alt="Desktop-Search" width="60%" >
+			<img src="https://i.imgur.com/FzFkZbS.png" alt="Desktop-Game" width="60%" >
+			<img src="https://i.imgur.com/xhBdGEg.png" alt="Desktop-Search-Light" width="60%" >
+			<img src="https://i.imgur.com/pvJnO0p.png" alt="Desktop-Genre-Light" width="60%" >
+			<img src="https://i.imgur.com/UlEGkUD.png" alt="Desktop-Genre-Platform-Light" width="60%" >
 		</td>
 	</tr>
 </table>
